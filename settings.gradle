@@ -1,0 +1,3 @@
+rootProject.name='HorizontalPickerView'
+include ':app'
+include ':library'
